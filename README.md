@@ -1,16 +1,30 @@
-## Hi there 👋
+## Olá, eu sou o Julinho! 👋
 
-<!--
-**julinhosolidario-sketch/julinhosolidario-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Sou estudante de **Mestrado em Finanças Empresariais** e um entusiasta do desenvolvimento de software, focado em unir o mundo dos mercados financeiros à tecnologia e análise de dados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Competências & Tecnologias
+
+Organizo o meu ecossistema de aprendizagem e desenvolvimento em duas grandes frentes:
+
+* **Linguagens de Programação:** Python, Java, PHP e SQL
+* **Ferramentas e Ambientes:** Linux, Gestão de Bases de Dados (phpMyAdmin)
+* **Análise Financeira:** TradingView, Análise Técnica Avançada, Gestão de Risco e Commodities
+
+---
+
+### 📈 Projetos em Destaque
+
+* **Data & Backend:** Desenvolvimento de scripts e estruturas de bases de dados relacionais em SQL para gestão de dados académicos e operacionais.
+* **Finanças Quantitativas / Projetos Futuros:** Automatização de análises de mercado e cruzamento de indicadores técnicos (RSI, VWAP) recorrendo a Python.
+
+---
+
+### 🎯 Atividades e Interesses
+
+Fora do ecrã e dos gráficos de velas, dedico o meu tempo livre a atividades que me mantêm em movimento e ligado à comunidade:
+
+* ⚽ Praticante de Futebol
+* 🚴 Ciclismo nos momentos livres
+* 🤝 Participação ativa em projetos de Voluntariado
