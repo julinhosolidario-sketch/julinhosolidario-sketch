@@ -1,6 +1,6 @@
-## Olá, eu sou o Julinho! 👋
+## Olá, sou o Julinho! 👋
 
- Sou estudante de **Mestrado em Finanças Empresariais** e um entusiasta do desenvolvimento de software, focado em unir o mundo dos mercados financeiros à tecnologia e análise de dados.
+Estudante de **Mestrado em Finanças Empresariais** e um entusiasta do desenvolvimento de software, focado em unir o mundo dos mercados financeiros à tecnologia e análise de dados.
 
 ---
 
